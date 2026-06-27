@@ -79,7 +79,7 @@
         "css_variable_prefix": "--brand"
     },
     "platform": {
-        "name": "Oseredavister",
+        "name": "oseredavister",
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
